@@ -12,9 +12,9 @@ begin
       of secret URLs for user (e.g. feed URLs) that can be accessed without logging in, and URLs
       for confirming the email address of a new user.
     EOF
-    gem.email = "mdholling@gmail.com"
-    gem.homepage = "http://github.com/mholling/active_url"
-    gem.authors = ["Matthew Hollingworth"]
+    gem.email = "george@benevolentcode.com"
+    gem.homepage = "http://github.com/george/active_url"
+    gem.authors = ["George Anderson"]
     gem.add_dependency 'activerecord'
     gem.has_rdoc = false
     
